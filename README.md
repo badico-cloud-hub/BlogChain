@@ -20,7 +20,7 @@ The main idea is to delivery a distributed blog tool that has federated auth and
 ## TODO
 - [x] Draft main ideas
 - [x] Create the boilerplate
-- [ ] Deploy boilerplate
+- [x] Deploy boilerplate
 - [ ] Choose a license
 - [ ] Relationship: content <> template <> instance
 - [ ] Start selfblog - blogchain.badico.cloud instance zero
